@@ -1,3 +1,16 @@
+MXSenorPato-
+===============
+
+changelog:
+
+* Based on AOSP 4.3 and CM10.2
+* Added focal
+* circle battery green
+* HALO
+and more...
+
+
+
 CyanogenMod
 ===============
 
