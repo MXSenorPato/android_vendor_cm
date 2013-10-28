@@ -293,8 +293,9 @@ endif
 
 PRODUCT_PROPERTY_OVERRIDES += \
   ro.xp.version=$(CM_VERSION) \
-  ro.xpe.dev=Klozz-Jesus \
-  ro.modversion=$(CM_VERSION)
+  ro.mx.version=$(CM_VERSION) \
+  ro.modversion=$(CM_VERSION) \
+  ro.xpe.dev=Klozz-Jesus 
 
 -include vendor/cm/sepolicy/sepolicy.mk
 
