@@ -134,6 +134,7 @@ include vendor/cm/config/themes_common.mk
 # Required CM packages
 PRODUCT_PACKAGES += \
     FOCAL \
+    PerformanceControl \
     Development \
     LatinIME \
     BluetoothExt
@@ -154,8 +155,8 @@ PRODUCT_PACKAGES += \
     CMWallpapers \
     Apollo \
     CMFileManager \
-    LockClock \
-    CMAccount
+    DashClock 
+    
 
 # CM Hardware Abstraction Framework
 PRODUCT_PACKAGES += \
